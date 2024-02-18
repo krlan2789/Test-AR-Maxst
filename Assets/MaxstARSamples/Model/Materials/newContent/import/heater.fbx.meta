@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e9ec9875edda44a9eb1adfbd73ba4e1a
+timeCreated: 1557202858
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ceramic_cap_1
+    100002: coil
+    100004: crimped_tube
+    100006: //RootNode
+    100008: lead_wire_1
+    100010: MgO
+    100012: nametag_Coil
+    100014: nametag_leadwire
+    100016: nametag_MgO
+    100018: nametag_Spacer
+    100020: sheath_1
+    100022: spacer
+    400000: ceramic_cap_1
+    400002: coil
+    400004: crimped_tube
+    400006: //RootNode
+    400008: lead_wire_1
+    400010: MgO
+    400012: nametag_Coil
+    400014: nametag_leadwire
+    400016: nametag_MgO
+    400018: nametag_Spacer
+    400020: sheath_1
+    400022: spacer
+    2300000: ceramic_cap_1
+    2300002: coil
+    2300004: crimped_tube
+    2300006: lead_wire_1
+    2300008: MgO
+    2300010: nametag_Coil
+    2300012: nametag_leadwire
+    2300014: nametag_MgO
+    2300016: nametag_Spacer
+    2300018: sheath_1
+    2300020: spacer
+    3300000: ceramic_cap_1
+    3300002: coil
+    3300004: crimped_tube
+    3300006: lead_wire_1
+    3300008: MgO
+    3300010: nametag_Coil
+    3300012: nametag_leadwire
+    3300014: nametag_MgO
+    3300016: nametag_Spacer
+    3300018: sheath_1
+    3300020: spacer
+    4300000: nametag_leadwire
+    4300002: nametag_MgO
+    4300004: nametag_Spacer
+    4300006: nametag_Coil
+    4300008: crimped_tube
+    4300010: MgO
+    4300012: spacer
+    4300014: coil
+    4300016: lead_wire_1
+    4300018: ceramic_cap_1
+    4300020: sheath_1
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ceramic_cap_1
+        weight: 1
+      - path: coil
+        weight: 1
+      - path: crimped_tube
+        weight: 1
+      - path: lead_wire_1
+        weight: 1
+      - path: MgO
+        weight: 1
+      - path: nametag_Coil
+        weight: 1
+      - path: nametag_leadwire
+        weight: 1
+      - path: nametag_MgO
+        weight: 1
+      - path: nametag_Spacer
+        weight: 1
+      - path: sheath_1
+        weight: 1
+      - path: spacer
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

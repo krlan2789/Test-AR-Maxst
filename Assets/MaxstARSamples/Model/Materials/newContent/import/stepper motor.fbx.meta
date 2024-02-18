@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: fc272a46bb9b849d594ae2669631cea1
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: bearing
+  - first:
+      1: 100002
+    second: bearing_2
+  - first:
+      1: 100004
+    second: front_endbell
+  - first:
+      1: 100006
+    second: inner_cover
+  - first:
+      1: 100008
+    second: magnet
+  - first:
+      1: 100010
+    second: motor_port
+  - first:
+      1: 100012
+    second: nametag_frontendbell
+  - first:
+      1: 100014
+    second: nametag_insulator
+  - first:
+      1: 100016
+    second: nametag_magnet
+  - first:
+      1: 100018
+    second: nametag_shaft
+  - first:
+      1: 100020
+    second: outer_cover
+  - first:
+      1: 100022
+    second: pillar
+  - first:
+      1: 100024
+    second: rear_endbell
+  - first:
+      1: 100026
+    second: rotor
+  - first:
+      1: 100028
+    second: rotor_2
+  - first:
+      1: 100030
+    second: //RootNode
+  - first:
+      4: 400000
+    second: bearing
+  - first:
+      4: 400002
+    second: bearing_2
+  - first:
+      4: 400004
+    second: front_endbell
+  - first:
+      4: 400006
+    second: inner_cover
+  - first:
+      4: 400008
+    second: magnet
+  - first:
+      4: 400010
+    second: motor_port
+  - first:
+      4: 400012
+    second: nametag_frontendbell
+  - first:
+      4: 400014
+    second: nametag_insulator
+  - first:
+      4: 400016
+    second: nametag_magnet
+  - first:
+      4: 400018
+    second: nametag_shaft
+  - first:
+      4: 400020
+    second: outer_cover
+  - first:
+      4: 400022
+    second: pillar
+  - first:
+      4: 400024
+    second: rear_endbell
+  - first:
+      4: 400026
+    second: rotor
+  - first:
+      4: 400028
+    second: rotor_2
+  - first:
+      4: 400030
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: bearing
+  - first:
+      23: 2300002
+    second: bearing_2
+  - first:
+      23: 2300004
+    second: front_endbell
+  - first:
+      23: 2300006
+    second: inner_cover
+  - first:
+      23: 2300008
+    second: magnet
+  - first:
+      23: 2300010
+    second: motor_port
+  - first:
+      23: 2300012
+    second: nametag_frontendbell
+  - first:
+      23: 2300014
+    second: nametag_insulator
+  - first:
+      23: 2300016
+    second: nametag_magnet
+  - first:
+      23: 2300018
+    second: nametag_shaft
+  - first:
+      23: 2300020
+    second: outer_cover
+  - first:
+      23: 2300022
+    second: pillar
+  - first:
+      23: 2300024
+    second: rear_endbell
+  - first:
+      23: 2300026
+    second: rotor
+  - first:
+      23: 2300028
+    second: rotor_2
+  - first:
+      33: 3300000
+    second: bearing
+  - first:
+      33: 3300002
+    second: bearing_2
+  - first:
+      33: 3300004
+    second: front_endbell
+  - first:
+      33: 3300006
+    second: inner_cover
+  - first:
+      33: 3300008
+    second: magnet
+  - first:
+      33: 3300010
+    second: motor_port
+  - first:
+      33: 3300012
+    second: nametag_frontendbell
+  - first:
+      33: 3300014
+    second: nametag_insulator
+  - first:
+      33: 3300016
+    second: nametag_magnet
+  - first:
+      33: 3300018
+    second: nametag_shaft
+  - first:
+      33: 3300020
+    second: outer_cover
+  - first:
+      33: 3300022
+    second: pillar
+  - first:
+      33: 3300024
+    second: rear_endbell
+  - first:
+      33: 3300026
+    second: rotor
+  - first:
+      33: 3300028
+    second: rotor_2
+  - first:
+      43: 4300000
+    second: nametag_magnet
+  - first:
+      43: 4300002
+    second: nametag_frontendbell
+  - first:
+      43: 4300004
+    second: nametag_insulator
+  - first:
+      43: 4300006
+    second: nametag_shaft
+  - first:
+      43: 4300008
+    second: pillar
+  - first:
+      43: 4300010
+    second: front_endbell
+  - first:
+      43: 4300012
+    second: inner_cover
+  - first:
+      43: 4300014
+    second: outer_cover
+  - first:
+      43: 4300016
+    second: bearing
+  - first:
+      43: 4300018
+    second: rotor
+  - first:
+      43: 4300020
+    second: magnet
+  - first:
+      43: 4300022
+    second: rotor_2
+  - first:
+      43: 4300024
+    second: bearing_2
+  - first:
+      43: 4300026
+    second: rear_endbell
+  - first:
+      43: 4300028
+    second: motor_port
+  - first:
+      74: 7400000
+    second: CINEMA_4D_Main
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bearing
+        weight: 1
+      - path: bearing_2
+        weight: 1
+      - path: front_endbell
+        weight: 1
+      - path: inner_cover
+        weight: 1
+      - path: magnet
+        weight: 1
+      - path: motor_port
+        weight: 1
+      - path: nametag_frontendbell
+        weight: 1
+      - path: nametag_insulator
+        weight: 1
+      - path: nametag_magnet
+        weight: 1
+      - path: nametag_shaft
+        weight: 1
+      - path: outer_cover
+        weight: 1
+      - path: pillar
+        weight: 1
+      - path: rear_endbell
+        weight: 1
+      - path: rotor
+        weight: 1
+      - path: rotor_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/Home.unity
+    guid: ce4838bbae628f949a584ae7c017f780
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/CameraConfiguration.unity
+    guid: bb047593fa2964b459cb9b9f38a70c7a
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/CloudRecognizer.unity
+    guid: af95e4b9d8bdd4ba984454799803ed8b
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/CodeReader.unity
+    guid: e539a9b46136bc5429a27671bb01b1f7
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/ImageFusionTracker.unity
+    guid: eb708c14391b84d1c9462b94276ee3f6
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/ImageTracker.unity
+    guid: dabbdb77ad4d46e41bc01dd90e5d2008
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/InstantFusionTracker.unity
+    guid: d4c4ae4f236c34c1d89a2dece18419b2
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/InstantTracker.unity
+    guid: 69244ca642ec75140bc19207605e2041
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/MarkerFusionTracker.unity
+    guid: 13fc47a5014c04f5e8057a4257177320
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/MarkerTracker.unity
+    guid: 3ac4de6b17712f54bb8fdd7d2218fb39
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/ObjectFusionTracker.unity
+    guid: 6c78b536ab1324eebb007105abce5524
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/ObjectTracker.unity
+    guid: ee8fd131c4b971b43b732d985769f0f6
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/QrCodeFusionTracker.unity
+    guid: 5828841c3235942e2b26f1624949197b
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/QrCodeTracker.unity
+    guid: 07c63318afa4a4572aa3af55e4936329
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/SpaceTracker.unity
+    guid: 01a8b5e80ccb524458bc5bc61a6554a8
+  - enabled: 0
+    path: Assets/MaxstARSamples/Scenes/VideoTracker.unity
+    guid: 2a7486843a4b0430a96978c9b1d6bec1
+  - enabled: 1
+    path: Assets/Scenes/MainAR.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6e9ec8df2e558d041b660affc541c10a,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1402cc69301b4824f8553092134ce044,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 72a25f3867d0d054c972b59ec44778a1,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 83f357ff3bfbe25438523e8f68a0de39, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 28ee29a90b8353b4ea7bdcbd2a769c3a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 415bc3d75214a744390c6848b68c7ea9,
+      type: 2}

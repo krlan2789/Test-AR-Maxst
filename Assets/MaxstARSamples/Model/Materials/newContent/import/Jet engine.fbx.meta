@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 07e6b0d758c9e4bb5bb2c0f7c2a815a3
+timeCreated: 1557203544
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: 2_2
+    100006: 2_3
+    100008: 3
+    100010: 3_2
+    100012: 3_3
+    100014: 3_4
+    100016: 4
+    100018: 4_2
+    100020: 5
+    100022: 5_2
+    100024: 5_3
+    100026: Body
+    100028: Combusor
+    100030: Compressor
+    100032: Cone
+    100034: Cylinder
+    100036: Fan
+    100038: //RootNode
+    100040: Lines
+    100042: Tubine
+    400000: 1
+    400002: 2
+    400004: 2_2
+    400006: 2_3
+    400008: 3
+    400010: 3_2
+    400012: 3_3
+    400014: 3_4
+    400016: 4
+    400018: 4_2
+    400020: 5
+    400022: 5_2
+    400024: 5_3
+    400026: Body
+    400028: Combusor
+    400030: Compressor
+    400032: Cone
+    400034: Cylinder
+    400036: Fan
+    400038: //RootNode
+    400040: Lines
+    400042: Tubine
+    2300000: 1
+    2300002: 2
+    2300004: 2_2
+    2300006: 2_3
+    2300008: 3
+    2300010: 3_2
+    2300012: 3_3
+    2300014: 3_4
+    2300016: 4
+    2300018: 4_2
+    2300020: 5
+    2300022: 5_2
+    2300024: 5_3
+    2300026: Body
+    2300028: Combusor
+    2300030: Compressor
+    2300032: Cone
+    2300034: Cylinder
+    2300036: Fan
+    2300038: Lines
+    2300040: Tubine
+    3300000: 1
+    3300002: 2
+    3300004: 2_2
+    3300006: 2_3
+    3300008: 3
+    3300010: 3_2
+    3300012: 3_3
+    3300014: 3_4
+    3300016: 4
+    3300018: 4_2
+    3300020: 5
+    3300022: 5_2
+    3300024: 5_3
+    3300026: Body
+    3300028: Combusor
+    3300030: Compressor
+    3300032: Cone
+    3300034: Cylinder
+    3300036: Fan
+    3300038: Lines
+    3300040: Tubine
+    4300000: Body
+    4300002: Lines
+    4300004: Fan
+    4300006: Compressor
+    4300008: Combusor
+    4300010: Tubine
+    4300012: Cone
+    4300014: 1
+    4300016: 5
+    4300018: 5_2
+    4300020: 5_3
+    4300022: 4
+    4300024: 4_2
+    4300026: 3
+    4300028: 3_2
+    4300030: 3_3
+    4300032: 3_4
+    4300034: 2
+    4300036: 2_2
+    4300038: 2_3
+    4300040: Cylinder
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 1
+        weight: 1
+      - path: 2
+        weight: 1
+      - path: 2_2
+        weight: 1
+      - path: 2_3
+        weight: 1
+      - path: 3
+        weight: 1
+      - path: 3_2
+        weight: 1
+      - path: 3_3
+        weight: 1
+      - path: 3_4
+        weight: 1
+      - path: 4
+        weight: 1
+      - path: 4_2
+        weight: 1
+      - path: 5
+        weight: 1
+      - path: 5_2
+        weight: 1
+      - path: 5_3
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Combusor
+        weight: 1
+      - path: Compressor
+        weight: 1
+      - path: Cone
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Fan
+        weight: 1
+      - path: Lines
+        weight: 1
+      - path: Tubine
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
